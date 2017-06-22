@@ -7,10 +7,10 @@
 from sys import exit
 
 # Database
-from utils.m_bdd import *
+from m_bdd import *
 
 # Show pulse (for lighting indicator when the data is gone to the BDD using the Pimoroni's Blinkt! .)
-from utils.m_blinkt_pulse import *
+from m_blinkt_pulse import *
 
 # Time and date
 from time import sleep
