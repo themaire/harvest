@@ -1,5 +1,5 @@
 # harvest
-Data values collector in MySQL for the Pimoroni's Enviro pHAT in Python3
+Data values collector in MySQL for the Pimoroni's Enviro pHAT in Python3 for your Raspberry Pi.
 
 First you need to install via pip3 the command : 
   sudo pip3 install PyMySQL
